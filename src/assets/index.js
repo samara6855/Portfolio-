@@ -21,13 +21,10 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
 import salesforce from "./company/salesforce.png";
 import rksc from "./company/rksc.png";
 import codingninjas from "./company/codingninjas.png";
 import internshala from "./company/internshala.png";
-import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.jpg";
 import jobit from "./jobit.jpg";
@@ -56,8 +53,6 @@ export {
   typescript,
   threejs,
   internshala,
-  shopify,
-  starbucks,
   salesforce,
   rksc,
   codingninjas,
