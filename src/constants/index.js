@@ -117,7 +117,7 @@ import {
   const experiences = [
     {
       title: "Salesforce Developer Intern",
-      company_name: "Salesforce",
+      company_name: "Smart Internz",
       icon: salesforce,
       iconBg: "#383E56",
       date: "Apr 2023 - May 2023",
@@ -198,7 +198,29 @@ import {
   
   const projects = [
     {
-      name: "Text-Utilities",
+      name: "Note Flow - Notes Sharing App",
+      description:
+        "Note Flow lets people find and share short tech notes. It's designed to help users quickly get the information they need and share their knowledge with others.",
+      tags: [
+        {
+          name: "nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "tailwindcss",
+          color: "green-text-gradient",
+        },
+        {
+          name: "mongodb",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: jobit,
+      source_code_link: "https://github.com/samara6855/Noteflow",
+    },
+
+    {
+      name: "Text - Utilities",
       description:
         "Text Utilities is a comprehensive tool designed to enhance text processing. It boasts features like word and character counting, conversion to uppercase or lowercase, and a text-to-speech functionality.",
       tags: [
@@ -218,38 +240,18 @@ import {
       image: carrent,
       source_code_link: "https://github.com/samara6855/Text-Utilities",
     },
+    
     {
-      name: "Connect four game",
+      name: "Nike - Landing Page",
       description:
-        "Connect Four is a two-player strategy game where participants take turns dropping colored discs into a vertically suspended grid. The objective is to connect four of one's own discs in a row, either vertically, horizontally, or diagonally, before the opponent does.",
+        "This stylish page is dedicated to showcasing Nike products in their full glory. It offers viewers an engaging experience, highlighting the latest trends and bestsellers. Visitors can effortlessly navigate and explore Nike's offerings.",
       tags: [
         {
-          name: "java",
+          name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "swing",
-          color: "green-text-gradient",
-        },
-        {
-          name: "gui",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: jobit,
-      source_code_link: "https://github.com/samara6855/Connect-Four-Game",
-    },
-    {
-      name: "Snake Game",
-      description:
-        "The Snake Game project is a classic arcade-style game where players control a continuously growing snake, aiming to consume items without colliding with itself or game boundaries. Providing users with a outstanding experience.",
-      tags: [
-        {
-          name: "java",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "gamepanel",
+          name: "tailwindcss",
           color: "green-text-gradient",
         },
         // {
@@ -258,7 +260,7 @@ import {
         // },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/samara6855/Snake-Game",
+      source_code_link: "https://github.com/samara6855/Nike-Landing-Page",
     },
   ];
   
