@@ -19,12 +19,13 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import threejs from "./tech/threejs.png";
 
 import salesforce from "./company/salesforce.png";
 import rksc from "./company/rksc.png";
 import codingninjas from "./company/codingninjas.png";
 import internshala from "./company/internshala.png";
+import focusrealm from "./company/focusrealm.png";
 
 import carrent from "./carrent.jpg";
 import jobit from "./jobit.jpg";
@@ -59,4 +60,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  focusrealm
 };

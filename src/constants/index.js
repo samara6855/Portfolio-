@@ -17,6 +17,7 @@ import {
     docker,
     internshala,
     salesforce,
+    focusrealm,
     rksc,
     codingninjas,
     carrent,
@@ -116,6 +117,19 @@ import {
   
   const experiences = [
     {
+      title: "Web Developer Intern",
+      company_name: "Focus Realm",
+      icon: focusrealm,
+      iconBg: "#FFFFFF",
+      date: "Oct 2023 - Nov 2023",
+      points: [
+        "Led the development of new features in the core website utilizing React.js, Supabase, and SCSS, achieving a 20 percent improvement in overall website performance and responsiveness.",
+        "Resolved critical bugs using React.js and Supabase, leading to a 15 percent reduction in page load times and improvement in overall user experience.",
+        "Collaborated on ideation and execution of new features, fostering an agile environment and driving a 25 percent increase in development efficiency.",
+        "Contributed to making web applications responsive by implementing CSS media queries and adjusting layouts for various devices.",
+      ],
+    },
+    {
       title: "Salesforce Developer Intern",
       company_name: "Smart Internz",
       icon: salesforce,
@@ -133,7 +147,7 @@ import {
       company_name: "Rachakonda Security Council",
       icon: rksc,
       iconBg: "#E6DEDD",
-      date: "Nov 2022 - Now",
+      date: "Nov 2022 - Mar 2023",
       points: [
         "Collaborated with the Rachakonda Security Council team to identify and mitigate potential security vulnerabilities across various platforms.",
         "Assisted in conducting penetration testing and vulnerability assessments.",
